@@ -15,7 +15,7 @@ This program was used to practice brnaching narratives, and user input. User dei
 
 
 ### Madlib
-Here is a program I worked on where the user was able to input words and phrases to add them to a story. This way, they are able to change it up and make their own!
+Here is a program I worked on where the user was able to input words and phrases to add them to a story. This way, they are able to change it up and make their own! (This work is based off of the Madlib from www.programmingisfun.com by Janell Baxter)
 - This project was a study in Arrays, and storing and instantiating user input. I worked on thhis for my Intro to Programming Class, but added a few more versions into what it is now.
 
 
