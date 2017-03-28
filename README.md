@@ -1,7 +1,7 @@
 # Parker Hamilton's Introduction to Programming Work
 
 Welcome to my profile!
-I am student at Columbia College Chicago studying Game Design and Pgramming. This site is a place to show some of the work I've done on my own - inclduing projects and practice. I am currntly in an Introduction to Programming class.
+I am student at Columbia College Chicago studying Game Design and Pgramming. This site is a place to show some of the work I've done on my own - including projects and practice. I am currntly in an Introduction to Programming class.
 
 You can view my work in the porjects tab - or, you can click one of the links _here_:
 
@@ -11,6 +11,7 @@ This program was used to practice brnaching narratives, and user input. User dei
 - The monster you fight is based on a randomly generated number.
 - Pick up items perceivable by the mosnter.
 - User input affects how the game unfolds, and the actions you take will change the monster's actions accordingly!
+- More than two endings!
 
 
 ### Madlib
