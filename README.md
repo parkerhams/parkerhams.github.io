@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Parker Hamilton's Introduction to Programming Work
 
 You can use the [editor on GitHub](https://github.com/parkerhams/parkerhams.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
